@@ -1,0 +1,8 @@
+wallets.txt
+config.json
+config.live.json
+*.log
+build/
+bin/
+tmp/
+.env
