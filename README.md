@@ -1,29 +1,28 @@
-# AnnaumiXYZ Mining
+# 🐎 ANNAUMIXYZ MINING
 
-Custom GPU mining framework based on HASH-style architecture.
+<p align="center">
+GPU OpenCL HASH Miner • Onchain PoW • Ethereum Network
+</p>
 
-## Features
+---
 
-- CUDA GPU mining
-- Multi GPU support
-- Multi wallet support
-- Flashbots support
-- Dry run mode
-- Custom mining framework
+## ✨ Features
 
-## Mining Flow
+- ⚡ GPU OpenCL mining
+- 🧠 Rust on-chain controller
+- 🔥 Ethereum HASH mining
+- 🚀 High performance GPU batching
+- 🔐 Secure `.env` wallet system
+- 🌐 Custom RPC support
+- 📊 Real-time hashrate stats
+- 🐎 Custom AnnaumiXYZ terminal banner
+- ⛏️ Dry run & live mining mode
 
-1. Load wallets
-2. Fetch challenge
-3. GPU brute force nonce
-4. Local verification
-5. Broadcast transaction
+---
 
-## Safety
+# 🖥️ Preview
 
-Never upload:
-- wallets.txt
-- private keys
-- live config
-
-Always start using dry-run mode.
+```bash
+git clone https://github.com/annaumixyz/annaumixyz-mining.git
+cd annaumixyz-mining
+bash install.sh
