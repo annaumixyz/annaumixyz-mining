@@ -143,7 +143,7 @@ then mining is ready.
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/annaumixyz-mining.git
+git clone https://github.com/annaumixyz/annaumixyz-mining.git
 ```
 
 Open project:
