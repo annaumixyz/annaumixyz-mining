@@ -387,4 +387,7 @@ Use responsibly.
 
 🐎 GPU Powered • Onchain Mining • Rust + OpenCL 🐎
 
+# DONATE
+EVM : 0x3be0650d0d0408a0de0fd761ba2c88ee430a0af0
+
 </div>
