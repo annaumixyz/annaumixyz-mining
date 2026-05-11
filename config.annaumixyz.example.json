@@ -1,0 +1,26 @@
+{
+  "wallet_file": "wallets.txt",
+
+  "wallet_count": 2,
+
+  "submit_transactions": false,
+
+  "gpu_ids": [0],
+
+  "max_fee_gwei": "10",
+
+  "priority_fee_gwei": "2",
+
+  "public_broadcast": false,
+
+  "private_broadcast": true,
+
+  "private_tx_endpoints": [
+    {
+      "name": "flashbots-fast",
+      "url": "https://rpc.flashbots.net/fast",
+      "method": "eth_sendRawTransaction",
+      "params_format": "string"
+    }
+  ]
+}
