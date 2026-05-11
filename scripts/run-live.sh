@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "Starting LIVE mining..."
+bash scripts/banner.sh
+
+echo "Starting AnnaumiXYZ Mining in LIVE mode..."
 
 ./annaumixyz-mining --config config.json
