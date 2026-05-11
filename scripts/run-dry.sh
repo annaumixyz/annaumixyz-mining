@@ -2,6 +2,7 @@
 
 bash scripts/banner.sh
 
-echo "Starting AnnaumiXYZ Mining in DRY RUN mode..."
+echo "Starting AnnaumiXYZ GPU miner..."
+echo "Pastikan .env sudah dibuat."
 
-./annaumixyz-mining --config config.json.json
+cargo run --release
